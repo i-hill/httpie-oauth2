@@ -9,7 +9,7 @@ setup(
     name='httpie-oauth2',
     description='OAuth2 plugin for HTTPie.',
     long_description=open('README.rst').read().strip(),
-    version='0.1.0',
+    version='0.3.0',
     author='Brian Demers',
     author_email='bdemers@apache.org',
     license='BSD',
