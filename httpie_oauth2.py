@@ -18,8 +18,8 @@ from httpie.cli.definition import parser
 
 from httpie.context import Environment
 
-__version__ = "0.3.0"
-__author__ = "Brian Demers"
+__version__ = "1.0.0"
+__author__ = "Ian Hill"
 __licence__ = "BSD"
 
 
